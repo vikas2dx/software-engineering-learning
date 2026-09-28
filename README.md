@@ -10,7 +10,7 @@ Explore the topic-by-topic [Flutter roadmap](flutter-roadmap/README.md).
 
 [Android roadmap](android/)
 
-## Java Spring Backend Roadmap (Core + Sprint)
+## Java Spring Backend Roadmap (Core + Spring)
 
 [Java Spring backend roadmap](java/README.md)
 
